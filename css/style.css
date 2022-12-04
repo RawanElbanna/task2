@@ -1,1 +1,44 @@
-
+.first{
+    background-image:url("mosquee.jpg");
+    background-repeat: no-repeat;
+    background-size:cover; 
+     margin: 0%;  
+}
+.sec{
+    background-color: rgba(0,0,0,0.5);
+    height: 592px;
+    text-align: center;
+    padding-top: 115px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color:whitesmoke;
+}
+.sec .third{
+    font-size: 50px;
+} 
+.sec .fourth{
+    font-size: 30px;
+}
+.btn{
+    text-decoration: none;
+    color: aliceblue;
+    background-color: #EDAA25;
+    border: none;
+    padding:15px 28px;
+    font-size: 16px;
+    border-radius: 30px;
+}
+.btn1{
+    text-decoration: none;
+    color: #EDAA25;
+    background-color: transparent;
+    border-radius: 28px;
+    border-color:#EDAA25;
+    border-style: solid;
+    font-size: 15px;
+    padding:13px 24px;
+    margin-left: 18px;
+}
+.fifth{
+    padding-top: 27px;
+}
